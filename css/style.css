@@ -21,11 +21,19 @@
 #nav-link {
     font-size:2rem !important;
 }
+.card-img-top{
+    max-width: 300px;
+}
 
 #projects{
     text-decoration: underline;
-    height: 90vh;
+    height: 100%;
     background-color: #45567D;
     padding-top: 5vh;
+    padding-bottom: 5vh;
     color: #fff;
+}
+
+.card-body {
+    margin-top: 0;
 }
