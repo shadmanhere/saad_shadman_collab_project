@@ -1,5 +1,5 @@
 #welcome-section{
-    background-color: #565656;
+    background-color: #313235;
     color: white;
     height: 80vh;
     padding-top: 30vh;
@@ -20,4 +20,12 @@
 
 #nav-link {
     font-size:2rem !important;
+}
+
+#projects{
+    text-decoration: underline;
+    height: 90vh;
+    background-color: #45567D;
+    padding-top: 5vh;
+    color: #fff;
 }
