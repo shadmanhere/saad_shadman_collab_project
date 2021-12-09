@@ -1,8 +1,17 @@
-#welcome-section{
+#welcome-section, #about-section{
     background-color: #313235;
     color: white;
     height: 80vh;
     padding-top: 30vh;
+}
+
+#about-section a {
+    color: #fff;
+    font-size: 1rem;
+}
+
+#about-section{
+    border-bottom: 2rem #680f29;
 }
 
 #welcome-section h1 {
@@ -12,6 +21,14 @@
 #welcome-section p {
     font-size: 2rem;
     color: red;
+}
+footer{
+    height: 10vh;
+    background-color: #313235;
+    color: #fff;
+    border-top: 5px solid red;
+    padding-top: 10px;
+    font-size: 1.5rem;
 }
 
 #navbar{
