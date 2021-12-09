@@ -1,6 +1,23 @@
 #welcome-section{
-    background-color: gray;
+    background-color: #565656;
     color: white;
     height: 80vh;
     padding-top: 30vh;
+}
+
+#welcome-section h1 {
+    font-size: 5rem;
+}
+
+#welcome-section p {
+    font-size: 2rem;
+    color: red;
+}
+
+#navbar{
+    background-color: #680f29 !important;
+}
+
+#nav-link {
+    font-size:2rem !important;
 }
